@@ -29,7 +29,7 @@ if not (10 > 15):
 # in elif we use else for ... ?
 
 # if we have this list [2,4,6,8,10] :
-listName=[2,4,6,8,10]:
+
 
 # check to see if 4 in this list or not
 
@@ -38,9 +38,6 @@ listName=[2,4,6,8,10]:
 # check to see if 3 or 6 in this list
 
 # check to see if 2 , 4 and 5 in this list
-
-
-
 
 
 

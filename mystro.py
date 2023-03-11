@@ -81,6 +81,7 @@ d = {'ahmad': 50, 'ali': 60, 'jiahd': 100}
 for v in d:
     print(v)
 
+
 d = {'ahmad': 50, 'ali': 60, 'jiahd': 100}
 for v in d.values():
     print(v)
@@ -94,3 +95,5 @@ d = {'ahmad': 50, 'ali': 60, 'jiahd': 100}
 for k,v in d.items():
     print(f"{k}      :      {v}")
 '''
+
+
