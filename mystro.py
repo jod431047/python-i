@@ -1,5 +1,25 @@
+#argument ,parameters
 '''
-def func_name(x,y):  
+f = 'i love coding'
+f .upper()
+'I LOVE CODING'
+f .lower()
+'i love coding'
+f . title()
+'I Love Coding'
+f . replace ('i' , 'we')
+'we love coding'
+f . split ('')
+['i' , 'love' ; 'coding']
+
+list --> array 50x
+'''
+
+
+
+
+'''
+def func_name(x,y):
     body
     return result
 '''
@@ -95,5 +115,5 @@ d = {'ahmad': 50, 'ali': 60, 'jiahd': 100}
 for k,v in d.items():
     print(f"{k}      :      {v}")
 '''
-
+class calculator :
 
